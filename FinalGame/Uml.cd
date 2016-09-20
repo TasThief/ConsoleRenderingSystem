@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FinalGame.Image">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAIAAAACAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Image.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGame.Program">
+    <Position X="18" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGame.Renderer">
+    <Position X="0.5" Y="3.25" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="FinalGame.Renderer.COORD" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Renderer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="FinalGame.Renderer.SMALL_RECT" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Renderer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="FinalGame.Renderer.COLORREF" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Renderer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="FinalGame.Renderer.CONSOLE_SCREEN_BUFFER_INFO_EX" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Renderer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>wAAIAAQAAABAAAAAAAAAAAAAAAgAAAAAAAgAAAAAAAQ=</HashCode>
+      <FileName>Renderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGame.Button">
+    <Position X="6.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACAAAAAggBAAAAAAAAAgABIAAAACAAAAABAEAA=</HashCode>
+      <FileName>Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGame.Screen">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAAAAAAAAAAAIAAAAAAAAALAQAACgAAABAAAAAA=</HashCode>
+      <FileName>Screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGame.ButtonArt">
+    <Position X="11.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAIAAIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ButtonArt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGame.ButtonLinks">
+    <Position X="9.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAABAAiACAAAAgAAAAAAAAAAAIAAACAAAAQAA=</HashCode>
+      <FileName>ButtonLinks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGame.Palette">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Palette.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGame.Listener">
+    <Position X="6.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAgAAAAAAAAQAEABIACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Listener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalGame.UIManager">
+    <Position X="16.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAABAAAAAAAAgABACAAAAAAAAACAgAA=</HashCode>
+      <FileName>UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="FinalGame.Coordinate">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAACABgAAAAAAA=</HashCode>
+      <FileName>Coordinate.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="FinalGame.GameScreen">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAIBAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAA=</HashCode>
+      <FileName>GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="FinalGame.ButtonAction" Collapsed="true">
+    <Position X="17.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Button.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
